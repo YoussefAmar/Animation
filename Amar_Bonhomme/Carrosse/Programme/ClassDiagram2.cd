@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Carrosse.Act1" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAQAAAAAAAAAAAAAAQAAAAAAQ=</HashCode>
+      <FileName>Acte\Act1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.Act2" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEAgAABAAAAAAAAAQAAAAAAAAAAAABAUAAAAAAA=</HashCode>
+      <FileName>Acte\Act2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.Bras" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAgAIBAgAAGAAgAUAAAAIyRgAEQAEBghABAABA=</HashCode>
+      <FileName>Corps\Bras.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.Decors" Collapsed="true">
+    <Position X="20.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIgEgAAAAAAAAAAgAWAQAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Décors\Decors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.EcranAccueil" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAACEICAQCAAJACAgCAAIAIIBABAAAAAhA=</HashCode>
+      <FileName>Programme\FicAccueil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.Jambe" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEBAhAIAEgQAAQiiAQIAAiIyBAAEAIEB4gARAgBA=</HashCode>
+      <FileName>Corps\Jambe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.MonBonhomme" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAQBgAAAAYAAAAAgAQAAAAAAAEAACEBAAAhAACAE=</HashCode>
+      <FileName>Inutiles\MonBonhomme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.MonCarrosse" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAABIAAAAAAAgAQQACAAAAEAAAAAiAAAAhCAA=</HashCode>
+      <FileName>Inutiles\MonCarrosse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.MonCercle" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACCgAAAAAAAAAAAAQAAAAACAAEAAAAAAAAAAgAI=</HashCode>
+      <FileName>Forme\MonCercle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.MonPoint" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAABAAAAAAgAAAAAAAQAAIAIAAABAgACZAA=</HashCode>
+      <FileName>Forme\MonPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.MonRectangle" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEACgAAAAAAAAAIEAQAAAAQCAAAAAAAAAAAAAgAI=</HashCode>
+      <FileName>Forme\MonRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.Nuage" Collapsed="true">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ALAAAAAgAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Décors\Nuage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.Program" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Programme\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.Rectangle_movable" Collapsed="true">
+    <Position X="15" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEACgAAAAgIAAAAgAQAAAAQCAAAEAAEBgAABAUFA=</HashCode>
+      <FileName>Forme\Rectangle_movable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.Super_Bonhomme" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAICihgAAIoZAQAQAgEQIAAAACAEAAAMBUABDAFyAQ=</HashCode>
+      <FileName>Corps\Super_Bonhomme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.Properties.Resources" Collapsed="true">
+    <Position X="18.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAABEAAAAQAAAAAAAAAAAAAgAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrosse.Properties.Settings" Collapsed="true">
+    <Position X="20.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
